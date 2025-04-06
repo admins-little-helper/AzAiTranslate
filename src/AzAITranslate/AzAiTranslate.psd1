@@ -115,7 +115,7 @@
         PSData = @{
 
             # Tags applied to this module. These help with module discovery in online galleries.
-            Tags                       = @('AzAiTranslate', 'Translate', 'Translator', 'Azure AI Translator')
+            Tags                       = @('AzAiTranslate', 'Translate', 'Translator', 'AzureAITranslator')
 
             # A URL to the license for this module.
             LicenseUri                 = 'https://github.com/admins-little-helper/AzAiTranslate/blob/main/LICENSE'
