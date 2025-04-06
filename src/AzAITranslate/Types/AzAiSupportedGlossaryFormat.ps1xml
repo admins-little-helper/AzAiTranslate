@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Types>
+    <Type>
+        <Name>AzAiSupportedGlossaryFormat</Name>
+        <Members>
+            <MemberSet>
+                <Name>PSStandardMembers</Name>
+                <Members>
+                    <PropertySet>
+                        <Name>DefaultDisplayPropertySet</Name>
+                        <ReferencedProperties>
+                            <Name>Format</Name>
+                            <Name>FileExtensions</Name>
+                            <Name>ContentTypes</Name>
+                            <Name>Defaultversion</Name>
+                            <Name>Versions</Name>
+                            <Name>Type</Name>
+                        </ReferencedProperties>
+                    </PropertySet>
+                </Members>
+            </MemberSet>
+        </Members>
+    </Type>
+</Types>

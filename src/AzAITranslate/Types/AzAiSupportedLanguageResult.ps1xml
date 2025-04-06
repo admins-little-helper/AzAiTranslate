@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Types>
+    <Type>
+        <Name>AzAiSupportedLanguageResult</Name>
+        <Members>
+            <MemberSet>
+                <Name>PSStandardMembers</Name>
+                <Members>
+                    <PropertySet>
+                        <Name>DefaultDisplayPropertySet</Name>
+                        <ReferencedProperties>
+                            <Name>Dictionary</Name>
+                            <Name>Translation</Name>
+                            <Name>Transliteration</Name>
+                            <Name>RawResult</Name>
+                            <Name>ETag</Name>
+                            <Name>RequestId</Name>
+                        </ReferencedProperties>
+                    </PropertySet>
+                </Members>
+            </MemberSet>
+        </Members>
+    </Type>
+</Types>
